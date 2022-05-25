@@ -1,0 +1,42 @@
+.container{
+    display: flex;
+    height: 70vh;
+    margin: 50px;
+    .left{
+        width: 50%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        flex-wrap: wrap;
+        h2{
+            font-size: 60px;
+        }
+        p{
+            font-size: 30px;
+        }
+    }
+    .right{
+        width: 45%;
+        margin: 100px;
+        .swiper{
+            height: 300px;
+            .cariCard{
+                display: flex;
+                justify-content: center;
+                height: 100%;
+                img{
+                    border: 1px solid #e6e6e6;
+                    height: 100%;
+                    object-fit: cover;
+                }
+                div{
+                    background: transparent;
+                }
+            }
+        }
+    }
+}
+hr{
+    width: 80%;
+    margin: 100px auto;
+}

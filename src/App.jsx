@@ -1,9 +1,8 @@
 import Topbar from "./components/topbar/Topbar";
 import Intro from "./components/intro/Intro";
-import Portfolio from "./components/portfolio/Portfolio";
-import Tecnologias from "./components/Tecnologias/Tecnologias";
-import Contact from "./components/contact/Contact";
-import Carousel from "./components/carousel/Carousel";
+import Contacto from "./components/contacto/Contacto";
+import Casas from "./components/casas/Casas";
+import Caricaturas from "./components/caricaturas/Caricaturas";
 import Menu from "./components/menu/Menu";
 import { useState } from "react";
 import "./app.scss";
@@ -17,10 +16,9 @@ function App() {
       <Menu menuOpen={menuOpen} setMenuOpen={setMenuOpen} />
       <div className="sections">
         <Intro />
-        <Portfolio />
-        {/* <Carousel /> */}
-        <Tecnologias />
-        <Contact />
+        <Caricaturas/>
+        <Casas />
+        <Contacto />
       </div>
     </div>
   );

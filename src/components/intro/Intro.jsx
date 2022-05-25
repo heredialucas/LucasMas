@@ -10,7 +10,7 @@ export default function Intro() {
       showCursor: true,
       backDelay: 1500,
       backSpeed: 70,
-      strings: ["Heredia Lucas", "Full Stack"],
+      strings: ["Lucas Mas", "Diseñador UI/UX"],
     });
   }, []);
 
@@ -19,18 +19,16 @@ export default function Intro() {
       <div className="left">
         <div className="imgContainer">
           <h1>
-            Hi! How are you?
-            <br /> I'm <span ref={textRef}></span>
+            Hola! Cómo estás?
+            <br /> Soy <span ref={textRef}></span>
           </h1>
         </div>
       </div>
       <div className="right">
         <div className="wrapper">
-          <h2>About me</h2>
+          <h2>Acerca de mi</h2>
           <p>
-            I'm someone curious and passionate about programming, constantly
-            learning and trying to improve one day at a time. I hope you like
-            this project and we can be in touch in the future
+            Intro sobre vos
           </p>
         </div>
       </div>
