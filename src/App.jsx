@@ -16,7 +16,7 @@ function App() {
       <Menu menuOpen={menuOpen} setMenuOpen={setMenuOpen} />
       <div className="sections">
         <Intro />
-        <Caricaturas/>
+        <Caricaturas />
         <Casas />
         <Contacto />
       </div>
