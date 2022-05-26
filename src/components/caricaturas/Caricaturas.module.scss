@@ -43,10 +43,10 @@
         @include mobile{
             width: 100%;
             margin: 0;
+            overflow: hidden;
         }
         .swiper{
             height: 300px;
-
             .cariCard{
                 display: flex;
                 justify-content: center;
