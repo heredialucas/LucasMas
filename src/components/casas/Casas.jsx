@@ -14,6 +14,7 @@ const Casas = () => {
 
   return (
     <div className={style.container} id="proyectos">
+      <h2>Proyectos</h2>
       <Swiper
         style={{
           "--swiper-navigation-color": "#fff",

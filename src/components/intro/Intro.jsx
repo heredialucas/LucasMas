@@ -28,7 +28,7 @@ export default function Intro() {
         <div className="wrapper">
           <h2>Acerca de mi</h2>
           <p>
-            Intro sobre vos
+            Intro sobre vos para ver si es q sabes describir alguno situacion en especifica
           </p>
         </div>
       </div>

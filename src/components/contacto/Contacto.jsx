@@ -16,7 +16,7 @@ export default function Contact() {
         <img src={Edificio2} alt="" />
       </div>
       <div className={style.right}>
-        <h2>Contacto</h2>
+        <h2>Email</h2>
         <form onSubmit={handleSubmit}>
           <input type="text" placeholder="Email" />
           <textarea placeholder="Message"></textarea>

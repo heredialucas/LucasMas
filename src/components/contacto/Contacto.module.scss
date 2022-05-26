@@ -1,7 +1,7 @@
 @import "../../global.scss";
 
 .contact {
-    position: relative;
+  position: relative;
   background-color: white;
   display: flex;
   justify-content: center;
@@ -13,25 +13,43 @@
 
   .left {
     overflow: hidden;
-
+    @include mobile {
+      width: 100%;
+      height: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    
     img {
       position: absolute;
       top: 0;
       left: 0;
       width: 100%;
       height: 100%;
-        opacity: .3;
+      opacity: 0.3;
+      @include mobile {
+        width: 100%;
+        height: 100%;
+      }
     }
   }
   .right {
-      z-index: 10;
+    z-index: 1;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    @include mobile {
+      width: 100%;
+      height: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
 
     h2 {
-      font-size: 30px;
+      font-size: 40px;
     }
 
     form {
@@ -41,7 +59,14 @@
       flex-direction: column;
       align-items: center;
       justify-content: space-around;
-
+      @include mobile {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+      }
       input {
         width: 300px;
         height: 30px;
