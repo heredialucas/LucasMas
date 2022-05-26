@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/LucasMas/static/css/main.fb16f9cc.css",
+    "main.js": "/LucasMas/static/js/main.44c7e026.js",
+    "static/media/caricatura5.jpeg": "/LucasMas/static/media/caricatura5.4ce8c39e1c5fa056b935.jpeg",
+    "static/media/caricatura2.jpeg": "/LucasMas/static/media/caricatura2.64a9a7642f55d9375f0f.jpeg",
+    "static/media/edificio2.png": "/LucasMas/static/media/edificio2.01bcf39b9b68e9a1e541.png",
+    "static/media/caricatura3.jpeg": "/LucasMas/static/media/caricatura3.f4fa2c2ddd6d46a5ef50.jpeg",
+    "static/media/edificio3.jpeg": "/LucasMas/static/media/edificio3.0dc21519258c34ab22f1.jpeg",
+    "static/media/edificio1.jpeg": "/LucasMas/static/media/edificio1.e8144bd1567b010740e4.jpeg",
+    "static/media/casa15.jpeg": "/LucasMas/static/media/casa15.2c5745947c0fc876e07b.jpeg",
+    "static/media/casa7.jpeg": "/LucasMas/static/media/casa7.047095fccd4636bccbbc.jpeg",
+    "static/media/casa11.jpeg": "/LucasMas/static/media/casa11.5b90a5827e20fb91ccad.jpeg",
+    "static/media/caricatura4.jpeg": "/LucasMas/static/media/caricatura4.94a329549df3e0840213.jpeg",
+    "static/media/casa8.jpeg": "/LucasMas/static/media/casa8.e7558290060753214c63.jpeg",
+    "static/media/casa12.jpeg": "/LucasMas/static/media/casa12.8893bfce9a14e6a3f0b8.jpeg",
+    "static/media/casa14.jpeg": "/LucasMas/static/media/casa14.5ad23a18715576305344.jpeg",
+    "static/media/caricatura1.jpeg": "/LucasMas/static/media/caricatura1.a29721da2fda20ae4290.jpeg",
+    "static/media/casa13.jpeg": "/LucasMas/static/media/casa13.fffdc6502ceb01d362d1.jpeg",
+    "static/media/casa9.jpeg": "/LucasMas/static/media/casa9.7a153d64eec1f97c0586.jpeg",
+    "static/media/casa6.jpeg": "/LucasMas/static/media/casa6.c70fdd16139b1fa55876.jpeg",
+    "static/media/casa2.jpeg": "/LucasMas/static/media/casa2.8e2368a2668563500529.jpeg",
+    "static/media/casa5.jpeg": "/LucasMas/static/media/casa5.0a6bceb715426b2afa30.jpeg",
+    "static/media/casa1.jpeg": "/LucasMas/static/media/casa1.3fcf23c5fb4cfb10c818.jpeg",
+    "static/media/casa4.jpeg": "/LucasMas/static/media/casa4.42046ccb5b539dac7c2a.jpeg",
+    "static/media/casa10.jpeg": "/LucasMas/static/media/casa10.c8c6397fba2796a8ef82.jpeg",
+    "static/media/casa3.jpeg": "/LucasMas/static/media/casa3.9d8eccb9661eb1e480dc.jpeg",
+    "index.html": "/LucasMas/index.html",
+    "main.fb16f9cc.css.map": "/LucasMas/static/css/main.fb16f9cc.css.map",
+    "main.44c7e026.js.map": "/LucasMas/static/js/main.44c7e026.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb16f9cc.css",
+    "static/js/main.44c7e026.js"
+  ]
+}
