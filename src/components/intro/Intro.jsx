@@ -28,7 +28,7 @@ export default function Intro() {
         <div className="wrapper">
           <h2>Acerca de mi</h2>
           <p>
-            Intro sobre vos para ver si es q sabes describir alguno situacion en especifica
+            Soy un estudiante avanzado de arquitectura, muy apasionado por el diseño y la innovación! Con mucha emoción de aplicar mis conocimientos y experiencia en el mundo del desarrollo de aplicaciones web y móviles.
           </p>
         </div>
       </div>

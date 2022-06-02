@@ -62,7 +62,7 @@
                     font-size: 40px;
                     margin-right: 9px;
                     margin-left: 9px;
-                    color: #738ea1;
+                    color: #000;
                 }
 
                 span {
@@ -103,6 +103,9 @@
         .wrapper{
             .left{
                 .itemContainer{
+                    .icon{
+                        color: $blanco;
+                    }
                     a{
                         color: $blanco;
                         p{

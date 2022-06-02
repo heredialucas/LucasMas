@@ -11,7 +11,7 @@ export default function Caricaturas() {
       <div className={style.container} id="caricaturas">
         <div className={style.left}>
           <h2>Caricaturas</h2>
-          <p>Explicación de caricaturas contando un poco de las caricaturas</p>
+          <p>¡En mis tiempos libres me gusta liberar la imaginación y divertirme! </p>
         </div>
         <div className={style.right}>
           <Swiper
