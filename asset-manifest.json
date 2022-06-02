@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/LucasMas/static/css/main.d3e4ad7e.css",
+    "main.css": "/LucasMas/static/css/main.cb21236d.css",
     "main.js": "/LucasMas/static/js/main.c305be83.js",
     "static/media/caricatura5.jpeg": "/LucasMas/static/media/caricatura5.4ce8c39e1c5fa056b935.jpeg",
     "static/media/caricatura2.jpeg": "/LucasMas/static/media/caricatura2.64a9a7642f55d9375f0f.jpeg",
@@ -26,11 +26,11 @@
     "static/media/casa10.jpeg": "/LucasMas/static/media/casa10.c8c6397fba2796a8ef82.jpeg",
     "static/media/casa3.jpeg": "/LucasMas/static/media/casa3.9d8eccb9661eb1e480dc.jpeg",
     "index.html": "/LucasMas/index.html",
-    "main.d3e4ad7e.css.map": "/LucasMas/static/css/main.d3e4ad7e.css.map",
+    "main.cb21236d.css.map": "/LucasMas/static/css/main.cb21236d.css.map",
     "main.c305be83.js.map": "/LucasMas/static/js/main.c305be83.js.map"
   },
   "entrypoints": [
-    "static/css/main.d3e4ad7e.css",
+    "static/css/main.cb21236d.css",
     "static/js/main.c305be83.js"
   ]
 }
