@@ -10,7 +10,7 @@ export default function Intro() {
       showCursor: true,
       backDelay: 1500,
       backSpeed: 70,
-      strings: ["Lucas Mas", "Diseñador UI/UX"],
+      strings: ["Lucas Mas", "Diseñador UI/UX", "Arquitecto Jr."],
     });
   }, []);
 
@@ -28,7 +28,7 @@ export default function Intro() {
         <div className="wrapper">
           <h2>Acerca de mi</h2>
           <p>
-            Soy un estudiante avanzado de arquitectura, muy apasionado por el diseño y la innovación! Con mucha emoción de aplicar mis conocimientos y experiencia en el mundo del desarrollo de aplicaciones web y móviles.
+            Soy un estudiante avanzado de arquitectura, muy apasionado por el diseño y la innovación!<br/> Con mucha emoción de aplicar mis conocimientos y experiencia en el mundo del desarrollo de aplicaciones web y móviles.
           </p>
         </div>
       </div>

@@ -2,6 +2,7 @@ import Topbar from "./components/topbar/Topbar";
 import Intro from "./components/intro/Intro";
 import Contacto from "./components/contacto/Contacto";
 import Casas from "./components/casas/Casas";
+import Diseños from "./components/diseñosUI/diseñosUI";
 import Caricaturas from "./components/caricaturas/Caricaturas";
 import Menu from "./components/menu/Menu";
 import { useState } from "react";
@@ -16,8 +17,9 @@ function App() {
       <Menu menuOpen={menuOpen} setMenuOpen={setMenuOpen} />
       <div className="sections">
         <Intro />
-        <Caricaturas />
+        <Diseños />
         <Casas />
+        <Caricaturas />
         <Contacto />
       </div>
     </div>

@@ -126,6 +126,83 @@ export const CasasData = [
     img: casa15,
   },
 ];
+export const DiseñosData = [
+  {
+    id: 1,
+    title: "casa1",
+    img: casa1,
+  },
+  {
+    id: 2,
+    title: "casa2",
+    img: casa2,
+  },
+  {
+    id: 3,
+    title: "casa3",
+    img: casa3,
+  },
+  {
+    id: 4,
+    title: "casa4",
+    img: casa4,
+  },
+  {
+    id: 5,
+    title: "casa5",
+    img: casa5,
+  },
+  {
+    id: 6,
+    title: "casa6",
+    img: casa6,
+  },
+  {
+    id: 7,
+    title: "casa7",
+    img: casa7,
+  },
+  {
+    id: 8,
+    title: "casa8",
+    img: casa8,
+  },
+  {
+    id: 9,
+    title: "casa9",
+    img: casa9,
+  },
+  {
+    id: 10,
+    title: "casa10",
+    img: casa10,
+  },
+  {
+    id: 11,
+    title: "casa11",
+    img: casa11,
+  },
+  {
+    id: 12,
+    title: "casa12",
+    img: casa12,
+  },
+  {
+    id: 13,
+    title: "casa13",
+    img: casa13,
+  },
+  {
+    id: 14,
+    title: "casa14",
+    img: casa14,
+  },
+  {
+    id: 15,
+    title: "casa15",
+    img: casa15,
+  },
+];
 export const EdificiosData = [
   {
     id: 1,

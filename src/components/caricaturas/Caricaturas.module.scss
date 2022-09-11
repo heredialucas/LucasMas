@@ -3,7 +3,7 @@
 .container{
     display: flex;
     height: 70vh;
-    margin: 50px;
+    margin: 100px;
     @include mobile{
         flex-direction: column;
         justify-content: space-evenly;
